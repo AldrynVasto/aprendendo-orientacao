@@ -18,12 +18,5 @@ public class Jantar {
 		
 		System.out.println(p.nome + " depois de comer " + pesoTotal + "Kg");
 		
-
-		
-		
-	    
-
-
-		
 	}
 }
